@@ -17,8 +17,8 @@ Desarrollar una réplica completa de BuddyBoss en React con funcionalidades adic
 
 * ✅ Todas las características existentes de BuddyBoss
 * 🆕 **Roll de Empresas**: Perfiles empresariales diferenciados
-* 🆕 **Ofertas de Usuarios**: Marketplace interno de servicios/productos
-* 🆕 **Anuncios Categorizados**: Sistema avanzado con tipos Oferta/Demanda
+* 🆕 **Ofertas de Empresas**: Listado interno de servicios/productos
+* 🆕 **Anuncios Categorizados de usuarios**: Sistema avanzado con tipos Oferta/Demanda
 * 🆕 **Asesorías**: Plataforma de consultoría con videollamadas y pagos
 
 #### Stack Tecnológico
@@ -72,33 +72,43 @@ Desarrollar una réplica completa de BuddyBoss en React con funcionalidades adic
 
 #### Nuevas Funcionalidades
 
-\{% hint style="success" %\} **Roll de Empresas**
+{% hint style="success" %}
+**Roll de Empresas**
 
 * Perfiles empresariales con verificación
 * Directorio empresarial con filtros
 * Sistema de certificación
-* Analytics empresariales \{% endhint %\}
+* Analytics empresariales
+{% endhint %}
 
-\{% hint style="success" %\} **Ofertas de Usuarios**
+{% hint style="success" %}
+**Ofertas de Usuarios**
 
 * Marketplace interno de servicios/productos
 * Categorización avanzada
 * Sistema de reviews y ratings
-* Contacto directo entre usuarios \{% endhint %\}
+* Contacto directo entre usuarios
+{% endhint %}
 
-\{% hint style="success" %\} **Anuncios Categorizados**
+{% hint style="success" %}
+**Anuncios Categorizados**
 
 * Categorías personalizables
 * Tipos: Oferta/Demanda
 * Sistema de targeting
-* Analytics de rendimiento \{% endhint %\}
+* Analytics de rendimiento
+{% endhint %}
 
-\{% hint style="success" %\} **Sistema de Asesorías**
+{% hint style="success" %}
+
+
+**Sistema de Asesorías**
 
 * Booking de sesiones
 * Videollamadas integradas
 * Sistema de pagos
-* Gestión de disponibilidad \{% endhint %\}
+* Gestión de disponibilidad
+{% endhint %}
 
 ***
 
